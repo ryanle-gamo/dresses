@@ -7,8 +7,8 @@
     "grid_ads_admob":true,
     "details_ads_admob":true,
     "version":"ALPHA",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category_alpha.json",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/dress/master/draw_dress_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/dress/master/draw_dress_category_alpha.json",
     "admob_banner_id":"ca-app-pub-4322965078780162/8136616733",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/2090083134",
     "itune_url":"http://itunes.apple.com/app/xxx"
