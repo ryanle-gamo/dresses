@@ -1,114 +1,1701 @@
 {
-	"categories":[
-                  {
-                    "category_id":"5210",
-                    "category_name":"Dolls Dress Up",
-                    "category_thumbnail":"5210.png",
-                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
-                    "file_extension": "png",
-                    "is_video":"false",
-                    "animes":[
-                              {
-                                "anime_id":"7",
-                                "anime_name":"Amazing Dress",
-                                "anime_step":13
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Anime Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Anna Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Applejack Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"4",
-                              "anime_name":"Barbi Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Belle Dress",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"1",
-                              "anime_name":"Briar Beauty Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"Cinderella Dress",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"20",
-                              "anime_name":"Cute Dress",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"2",
-                              "anime_name":"Draculaura Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"18",
-                              "anime_name":"Elsa Dress",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"16",
-                              "anime_name":"Evening Dress",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"3",
-                              "anime_name":"Frankie Stein Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"17",
-                              "anime_name":"Kira Vellar Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"19",
-                              "anime_name":"Little Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Madeline Hatter Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Pinkie Pie Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Rainbow Dash Dress",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Short Dress",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Wedding Dress",
-                              "anime_step":10
-                              }
-                        ]
-                    }
-                  ]
+	"categories": [{
+			"category_id": "5210",
+			"category_name": "Dolls Dress Up",
+			"category_thumbnail": "5210.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "7",
+				"anime_name": "Amazing Dress",
+				"anime_step": 13
+			}, {
+				"anime_id": "5",
+				"anime_name": "Anime Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "11",
+				"anime_name": "Anna Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "9",
+				"anime_name": "Applejack Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "4",
+				"anime_name": "Barbi Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "13",
+				"anime_name": "Belle Dress",
+				"anime_step": 12
+			}, {
+				"anime_id": "1",
+				"anime_name": "Briar Beauty Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "12",
+				"anime_name": "Cinderella Dress",
+				"anime_step": 12
+			}, {
+				"anime_id": "20",
+				"anime_name": "Cute Dress",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Draculaura Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "18",
+				"anime_name": "Elsa Dress",
+				"anime_step": 6
+			}, {
+				"anime_id": "16",
+				"anime_name": "Evening Dress",
+				"anime_step": 8
+			}, {
+				"anime_id": "3",
+				"anime_name": "Frankie Stein Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "17",
+				"anime_name": "Kira Vellar Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "19",
+				"anime_name": "Little Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "10",
+				"anime_name": "Madeline Hatter Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "8",
+				"anime_name": "Pinkie Pie Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "6",
+				"anime_name": "Rainbow Dash Dress",
+				"anime_step": 8
+			}, {
+				"anime_id": "15",
+				"anime_name": "Short Dress",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Wedding Dress",
+				"anime_step": 10
+			}]
+		}, {
+			"category_id": "1305",
+			"category_name": "Barbie",
+			"category_thumbnail": "1305.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Super Sparkle",
+				"anime_step": 15
+			}, {
+				"anime_id": "2",
+				"anime_name": "Barbie in Paris",
+				"anime_step": 12
+			}, {
+				"anime_id": "3",
+				"anime_name": "Sequin",
+				"anime_step": 11
+			}, {
+				"anime_id": "4",
+				"anime_name": "Parker",
+				"anime_step": 13
+			}, {
+				"anime_id": "5",
+				"anime_name": "Newton",
+				"anime_step": 13
+			}, {
+				"anime_id": "6",
+				"anime_name": "Barbie Singer",
+				"anime_step": 12
+			}, {
+				"anime_id": "7",
+				"anime_name": "Portret of Barbie",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Princess Courtney",
+				"anime_step": 13
+			}, {
+				"anime_id": "9",
+				"anime_name": "Merliah",
+				"anime_step": 13
+			}, {
+				"anime_id": "10",
+				"anime_name": "Kuda",
+				"anime_step": 9
+			}, {
+				"anime_id": "11",
+				"anime_name": "Barbie",
+				"anime_step": 11
+			}, {
+				"anime_id": "12",
+				"anime_name": "Chelsea Roberts",
+				"anime_step": 11
+			}, {
+				"anime_id": "13",
+				"anime_name": "Kristyn",
+				"anime_step": 11
+			}, {
+				"anime_id": "14",
+				"anime_name": "Alexa",
+				"anime_step": 13
+			}, {
+				"anime_id": "15",
+				"anime_name": "Ken",
+				"anime_step": 10
+			}]
+		}, {
+			"category_id": "1320",
+			"category_name": "Cinderella",
+			"category_thumbnail": "1320.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Chibi Cinderella",
+				"anime_step": 10
+			}, {
+				"anime_id": "2",
+				"anime_name": "Cinderella",
+				"anime_step": 12
+			}, {
+				"anime_id": "3",
+				"anime_name": "Bell",
+				"anime_step": 15
+			}, {
+				"anime_id": "4",
+				"anime_name": "Snow White",
+				"anime_step": 14
+			}, {
+				"anime_id": "5",
+				"anime_name": "Tiana",
+				"anime_step": 14
+			}, {
+				"anime_id": "6",
+				"anime_name": "Giselle",
+				"anime_step": 12
+			}, {
+				"anime_id": "7",
+				"anime_name": "Megara",
+				"anime_step": 11
+			}, {
+				"anime_id": "8",
+				"anime_name": "Sleeping Beauty",
+				"anime_step": 12
+			}, {
+				"anime_id": "9",
+				"anime_name": "Pocahontas",
+				"anime_step": 14
+			}, {
+				"anime_id": "10",
+				"anime_name": "Rapunzel",
+				"anime_step": 13
+			}, {
+				"anime_id": "11",
+				"anime_name": "Esmeralda",
+				"anime_step": 15
+			}, {
+				"anime_id": "12",
+				"anime_name": "Ariel",
+				"anime_step": 14
+			}, {
+				"anime_id": "13",
+				"anime_name": "Jasmine",
+				"anime_step": 13
+			}, {
+				"anime_id": "14",
+				"anime_name": "Elsa",
+				"anime_step": 11
+			}, {
+				"anime_id": "15",
+				"anime_name": "Fairygod Mother",
+				"anime_step": 9
+			}, {
+				"anime_id": "16",
+				"anime_name": "Gus",
+				"anime_step": 10
+			}, {
+				"anime_id": "17",
+				"anime_name": "Jag",
+				"anime_step": 11
+			}, {
+				"anime_id": "18",
+				"anime_name": "King",
+				"anime_step": 12
+			}, {
+				"anime_id": "19",
+				"anime_name": "Lucifer",
+				"anime_step": 9
+			}, {
+				"anime_id": "20",
+				"anime_name": "Prince Charming",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1319",
+			"category_name": "Cartoon Princess",
+			"category_thumbnail": "1319.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Alice",
+				"anime_step": 13
+			}, {
+				"anime_id": "2",
+				"anime_name": "Anna",
+				"anime_step": 14
+			}, {
+				"anime_id": "3",
+				"anime_name": "Ariel",
+				"anime_step": 14
+			}, {
+				"anime_id": "4",
+				"anime_name": "Belle",
+				"anime_step": 15
+			}, {
+				"anime_id": "5",
+				"anime_name": "Cinderella",
+				"anime_step": 12
+			}, {
+				"anime_id": "6",
+				"anime_name": "Snow White",
+				"anime_step": 14
+			}, {
+				"anime_id": "7",
+				"anime_name": "Jasmine",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Tinkerbell",
+				"anime_step": 13
+			}, {
+				"anime_id": "9",
+				"anime_name": "Tiana",
+				"anime_step": 14
+			}, {
+				"anime_id": "10",
+				"anime_name": "Elsa",
+				"anime_step": 11
+			}, {
+				"anime_id": "11",
+				"anime_name": "Esmeralda",
+				"anime_step": 15
+			}, {
+				"anime_id": "12",
+				"anime_name": "Giselle",
+				"anime_step": 12
+			}, {
+				"anime_id": "13",
+				"anime_name": "Jane",
+				"anime_step": 14
+			}, {
+				"anime_id": "14",
+				"anime_name": "Megara",
+				"anime_step": 11
+			}, {
+				"anime_id": "15",
+				"anime_name": "Mulan",
+				"anime_step": 13
+			}, {
+				"anime_id": "16",
+				"anime_name": "Pocahontas",
+				"anime_step": 14
+			}, {
+				"anime_id": "17",
+				"anime_name": "Rapunzel",
+				"anime_step": 13
+			}, {
+				"anime_id": "18",
+				"anime_name": "Sleeping Beauty",
+				"anime_step": 12
+			}, {
+				"anime_id": "19",
+				"anime_name": "Vanellope von Schweetz",
+				"anime_step": 12
+			}, {
+				"anime_id": "20",
+				"anime_name": "Sofia the First",
+				"anime_step": 13
+			}]
+		}, {
+			"category_id": "1324",
+			"category_name": "Bratz Dolls",
+			"category_thumbnail": "1324.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Jade Core Doll",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Yasmin Action Heroez",
+				"anime_step": 15
+			}, {
+				"anime_id": "3",
+				"anime_name": "Shira Action Heroez",
+				"anime_step": 14
+			}, {
+				"anime_id": "4",
+				"anime_name": "Cloe Action Heroez",
+				"anime_step": 13
+			}, {
+				"anime_id": "5",
+				"anime_name": "Sasha My Passion",
+				"anime_step": 15
+			}, {
+				"anime_id": "6",
+				"anime_name": "Yasmin My Passion",
+				"anime_step": 12
+			}, {
+				"anime_id": "7",
+				"anime_name": "Cloe My Passion",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Jade My Passion",
+				"anime_step": 12
+			}, {
+				"anime_id": "9",
+				"anime_name": "Cloe Twisty Style",
+				"anime_step": 12
+			}, {
+				"anime_id": "10",
+				"anime_name": "Sasha Core Doll",
+				"anime_step": 12
+			}, {
+				"anime_id": "11",
+				"anime_name": "Yasmin Core Doll",
+				"anime_step": 12
+			}, {
+				"anime_id": "12",
+				"anime_name": "Meygan Kool Katz",
+				"anime_step": 14
+			}, {
+				"anime_id": "13",
+				"anime_name": "Fianna Totally Polished",
+				"anime_step": 12
+			}, {
+				"anime_id": "14",
+				"anime_name": "Koby BOYZ Xpress It",
+				"anime_step": 12
+			}, {
+				"anime_id": "15",
+				"anime_name": "Cade BOYZ Xpress It",
+				"anime_step": 13
+			}, {
+				"anime_id": "16",
+				"anime_name": "Cameron BOYZ Xpress It",
+				"anime_step": 13
+			}, {
+				"anime_id": "17",
+				"anime_name": "Fianna Strut It!",
+				"anime_step": 12
+			}, {
+				"anime_id": "18",
+				"anime_name": "Dana Style It",
+				"anime_step": 11
+			}, {
+				"anime_id": "19",
+				"anime_name": "Jaylene Style It",
+				"anime_step": 12
+			}, {
+				"anime_id": "20",
+				"anime_name": "Brigitte Style It",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1323",
+			"category_name": "Moxie Girls",
+			"category_thumbnail": "1323.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Rainbows",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Glitter",
+				"anime_step": 12
+			}, {
+				"anime_id": "3",
+				"anime_name": "Jewels",
+				"anime_step": 12
+			}, {
+				"anime_id": "4",
+				"anime_name": "Lexa Poopsy Pets",
+				"anime_step": 13
+			}, {
+				"anime_id": "5",
+				"anime_name": "Kellan Poopsy Pets",
+				"anime_step": 13
+			}, {
+				"anime_id": "6",
+				"anime_name": "Avery Poopsy Pets",
+				"anime_step": 12
+			}, {
+				"anime_id": "7",
+				"anime_name": "Avery Pajama Party",
+				"anime_step": 11
+			}, {
+				"anime_id": "8",
+				"anime_name": "Sophina Pajama Party",
+				"anime_step": 14
+			}, {
+				"anime_id": "9",
+				"anime_name": "Monet Fashion Snaps",
+				"anime_step": 13
+			}, {
+				"anime_id": "10",
+				"anime_name": "Monet Horse Riding Club",
+				"anime_step": 12
+			}, {
+				"anime_id": "11",
+				"anime_name": "Lexa Rockin Band",
+				"anime_step": 15
+			}, {
+				"anime_id": "12",
+				"anime_name": "Sophina Rockin Band",
+				"anime_step": 13
+			}, {
+				"anime_id": "13",
+				"anime_name": "Sophina Sweet Style",
+				"anime_step": 13
+			}, {
+				"anime_id": "14",
+				"anime_name": "Monet Fruity Style",
+				"anime_step": 12
+			}, {
+				"anime_id": "15",
+				"anime_name": "Avery Sweet Style",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1315",
+			"category_name": "Lalaloopsy",
+			"category_thumbnail": "1315.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Blossom Flowerpot",
+				"anime_step": 16
+			}, {
+				"anime_id": "2",
+				"anime_name": "Cherry Crisp Crust",
+				"anime_step": 12
+			}, {
+				"anime_id": "3",
+				"anime_name": "Cinderslippers",
+				"anime_step": 14
+			}, {
+				"anime_id": "4",
+				"anime_name": "Cloud E Sky",
+				"anime_step": 14
+			}, {
+				"anime_id": "5",
+				"anime_name": "Happy Daisy",
+				"anime_step": 13
+			}, {
+				"anime_id": "6",
+				"anime_name": "Mari Golden",
+				"anime_step": 13
+			}, {
+				"anime_id": "7",
+				"anime_name": "Mint E Stripes",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Queenie Red Heart",
+				"anime_step": 15
+			}, {
+				"anime_id": "9",
+				"anime_name": "Toasty Sweet Fluff",
+				"anime_step": 14
+			}, {
+				"anime_id": "10",
+				"anime_name": "Toffe Cocoa Cuddles",
+				"anime_step": 14
+			}]
+		}, {
+			"category_id": "1308",
+			"category_name": "Monster Dolls",
+			"category_thumbnail": "1308.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Dracara",
+				"anime_step": 13
+			}, {
+				"anime_id": "2",
+				"anime_name": "Carmen",
+				"anime_step": 14
+			}, {
+				"anime_id": "3",
+				"anime_name": "Amfiday",
+				"anime_step": 16
+			}, {
+				"anime_id": "4",
+				"anime_name": "Vampie",
+				"anime_step": 12
+			}, {
+				"anime_id": "5",
+				"anime_name": "Lizarde",
+				"anime_step": 12
+			}, {
+				"anime_id": "6",
+				"anime_name": "Liana",
+				"anime_step": 15
+			}, {
+				"anime_id": "7",
+				"anime_name": "Celiope",
+				"anime_step": 15
+			}, {
+				"anime_id": "8",
+				"anime_name": "Frostie",
+				"anime_step": 13
+			}, {
+				"anime_id": "9",
+				"anime_name": "Katara",
+				"anime_step": 14
+			}, {
+				"anime_id": "10",
+				"anime_name": "Wolfie",
+				"anime_step": 13
+			}]
+		}, {
+			"category_id": "1303",
+			"category_name": "Ever After High",
+			"category_thumbnail": "1303.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Apple White",
+				"anime_step": 18
+			}, {
+				"anime_id": "2",
+				"anime_name": "Raven Queen",
+				"anime_step": 18
+			}, {
+				"anime_id": "3",
+				"anime_name": "Madeline Hatter",
+				"anime_step": 19
+			}, {
+				"anime_id": "4",
+				"anime_name": "Briar Beauty",
+				"anime_step": 18
+			}, {
+				"anime_id": "5",
+				"anime_name": "C.A.Cupid",
+				"anime_step": 18
+			}, {
+				"anime_id": "6",
+				"anime_name": "Cerise Hood",
+				"anime_step": 18
+			}, {
+				"anime_id": "7",
+				"anime_name": "Ashlynn Ella",
+				"anime_step": 19
+			}, {
+				"anime_id": "8",
+				"anime_name": "Symphony Shallo",
+				"anime_step": 19
+			}, {
+				"anime_id": "9",
+				"anime_name": "Hunter Huntsman<",
+				"anime_step": 17
+			}, {
+				"anime_id": "10",
+				"anime_name": "Winter Frost",
+				"anime_step": 18
+			}, {
+				"anime_id": "11",
+				"anime_name": "Christine Andersen",
+				"anime_step": 18
+			}, {
+				"anime_id": "12",
+				"anime_name": "Bianca Bella",
+				"anime_step": 19
+			}, {
+				"anime_id": "13",
+				"anime_name": "Angelique Reaperess",
+				"anime_step": 21
+			}, {
+				"anime_id": "14",
+				"anime_name": "Eva",
+				"anime_step": 19
+			}, {
+				"anime_id": "15",
+				"anime_name": "Apple White Portrait",
+				"anime_step": 11
+			}, {
+				"anime_id": "16",
+				"anime_name": "Cedar Wood",
+				"anime_step": 14
+			}, {
+				"anime_id": "17",
+				"anime_name": "Daring Charming",
+				"anime_step": 9
+			}, {
+				"anime_id": "18",
+				"anime_name": "Dexter Charming",
+				"anime_step": 12
+			}, {
+				"anime_id": "19",
+				"anime_name": "Holly O'Hair",
+				"anime_step": 14
+			}, {
+				"anime_id": "20",
+				"anime_name": "Lizzie Hearts",
+				"anime_step": 13
+			}, {
+				"anime_id": "21",
+				"anime_name": "Mermaid",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1304",
+			"category_name": "Winx Club",
+			"category_thumbnail": "1304.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Aisha Portrait",
+				"anime_step": 10
+			}, {
+				"anime_id": "2",
+				"anime_name": "Aisha",
+				"anime_step": 17
+			}, {
+				"anime_id": "3",
+				"anime_name": "Bloom Portrait",
+				"anime_step": 9
+			}, {
+				"anime_id": "4",
+				"anime_name": "Bloom",
+				"anime_step": 17
+			}, {
+				"anime_id": "5",
+				"anime_name": "Flora Portrait",
+				"anime_step": 10
+			}, {
+				"anime_id": "6",
+				"anime_name": "Flora",
+				"anime_step": 17
+			}, {
+				"anime_id": "7",
+				"anime_name": "Musa Portrait",
+				"anime_step": 9
+			}, {
+				"anime_id": "8",
+				"anime_name": "Musa",
+				"anime_step": 15
+			}, {
+				"anime_id": "9",
+				"anime_name": "Stella Portrait",
+				"anime_step": 10
+			}, {
+				"anime_id": "10",
+				"anime_name": "Stella",
+				"anime_step": 16
+			}, {
+				"anime_id": "11",
+				"anime_name": "Tecna Portrait",
+				"anime_step": 11
+			}, {
+				"anime_id": "12",
+				"anime_name": "Tecna",
+				"anime_step": 15
+			}, {
+				"anime_id": "13",
+				"anime_name": "Daphne",
+				"anime_step": 14
+			}, {
+				"anime_id": "14",
+				"anime_name": "Roxy",
+				"anime_step": 11
+			}, {
+				"anime_id": "15",
+				"anime_name": "Sky",
+				"anime_step": 12
+			}]
+		},
+
+
+		{
+			"category_id": "1307",
+			"category_name": "Equestria Girls",
+			"category_thumbnail": "1307.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Fluttershy",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Applejack",
+				"anime_step": 17
+			}, {
+				"anime_id": "3",
+				"anime_name": "Pinkie Pie",
+				"anime_step": 15
+			}, {
+				"anime_id": "4",
+				"anime_name": "Twilight Sparkle",
+				"anime_step": 16
+			}, {
+				"anime_id": "5",
+				"anime_name": "Rarity",
+				"anime_step": 16
+			}, {
+				"anime_id": "6",
+				"anime_name": "Rainbow Dash",
+				"anime_step": 15
+			}, {
+				"anime_id": "7",
+				"anime_name": "Sunset Shimmer",
+				"anime_step": 16
+			}, {
+				"anime_id": "8",
+				"anime_name": "Spike",
+				"anime_step": 16
+			}, {
+				"anime_id": "9",
+				"anime_name": "Flach Sentry",
+				"anime_step": 15
+			}, {
+				"anime_id": "10",
+				"anime_name": "Vinyl",
+				"anime_step": 15
+			}, {
+				"anime_id": "11",
+				"anime_name": "Applebloom",
+				"anime_step": 10
+			}, {
+				"anime_id": "12",
+				"anime_name": "Applejack Face",
+				"anime_step": 13
+			}, {
+				"anime_id": "13",
+				"anime_name": "Big Mac",
+				"anime_step": 11
+			}, {
+				"anime_id": "14",
+				"anime_name": "Twilight Sparkle Face",
+				"anime_step": 8
+			}, {
+				"anime_id": "15",
+				"anime_name": "Pinkie Pie Riding",
+				"anime_step": 15
+			}, {
+				"anime_id": "16",
+				"anime_name": "Princess Luna",
+				"anime_step": 13
+			}, {
+				"anime_id": "17",
+				"anime_name": "Rainbow Dash Face",
+				"anime_step": 9
+			}, {
+				"anime_id": "18",
+				"anime_name": "Rarity Face",
+				"anime_step": 13
+			}]
+		},
+
+		{
+			"category_id": "1309",
+			"category_name": "My Star Wars Pony",
+			"category_thumbnail": "1309.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Darth Vader",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Han Solo",
+				"anime_step": 16
+			}, {
+				"anime_id": "3",
+				"anime_name": "Yoda",
+				"anime_step": 14
+			}, {
+				"anime_id": "4",
+				"anime_name": "Darth Maul",
+				"anime_step": 12
+			}, {
+				"anime_id": "5",
+				"anime_name": "Boba Fett",
+				"anime_step": 16
+			}, {
+				"anime_id": "6",
+				"anime_name": "Princess Leia",
+				"anime_step": 13
+			}, {
+				"anime_id": "7",
+				"anime_name": "C-3PO",
+				"anime_step": 12
+			}, {
+				"anime_id": "8",
+				"anime_name": "Zeb Orrelios",
+				"anime_step": 14
+			}, {
+				"anime_id": "9",
+				"anime_name": "The Inquisitor",
+				"anime_step": 12
+			}, {
+				"anime_id": "10",
+				"anime_name": "Stormtrooper",
+				"anime_step": 14
+			}, {
+				"anime_id": "11",
+				"anime_name": "Ahsoka",
+				"anime_step": 13
+			}, {
+				"anime_id": "12",
+				"anime_name": "Anakin Skywalker",
+				"anime_step": 13
+			}, {
+				"anime_id": "13",
+				"anime_name": "Luke Skywalker",
+				"anime_step": 14
+			}]
+		}, {
+			"category_id": "1310",
+			"category_name": "My Superhero Pony",
+			"category_thumbnail": "1310.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Batpony",
+				"anime_step": 12
+			}, {
+				"anime_id": "2",
+				"anime_name": "Spiderpony",
+				"anime_step": 13
+			}, {
+				"anime_id": "3",
+				"anime_name": "Iron Pony",
+				"anime_step": 12
+			}, {
+				"anime_id": "4",
+				"anime_name": "Super Pony",
+				"anime_step": 12
+			}, {
+				"anime_id": "5",
+				"anime_name": "Captain America",
+				"anime_step": 13
+			}, {
+				"anime_id": "6",
+				"anime_name": "Hulk",
+				"anime_step": 11
+			}, {
+				"anime_id": "7",
+				"anime_name": "Thor",
+				"anime_step": 16
+			}, {
+				"anime_id": "8",
+				"anime_name": "Flash",
+				"anime_step": 13
+			}, {
+				"anime_id": "9",
+				"anime_name": "Wonder Pony",
+				"anime_step": 16
+			}, {
+				"anime_id": "10",
+				"anime_name": "Black Widow",
+				"anime_step": 12
+			}, {
+				"anime_id": "11",
+				"anime_name": "Loki",
+				"anime_step": 14
+			}, {
+				"anime_id": "12",
+				"anime_name": "Robin",
+				"anime_step": 12
+			}, {
+				"anime_id": "13",
+				"anime_name": "Deadpoony",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1311",
+			"category_name": "My Monster Pony",
+			"category_thumbnail": "1311.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Frostiny",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Wolfiny",
+				"anime_step": 13
+			}, {
+				"anime_id": "3",
+				"anime_name": "Dragony",
+				"anime_step": 13
+			}, {
+				"anime_id": "4",
+				"anime_name": "Vampiny",
+				"anime_step": 15
+			}, {
+				"anime_id": "5",
+				"anime_name": "Pegany",
+				"anime_step": 17
+			}, {
+				"anime_id": "6",
+				"anime_name": "Muminy",
+				"anime_step": 11
+			}, {
+				"anime_id": "7",
+				"anime_name": "Dracuny",
+				"anime_step": 11
+			}, {
+				"anime_id": "8",
+				"anime_name": "Poisony",
+				"anime_step": 13
+			}, {
+				"anime_id": "9",
+				"anime_name": "Amfiny",
+				"anime_step": 14
+			}, {
+				"anime_id": "10",
+				"anime_name": "Chicany",
+				"anime_step": 17
+			}]
+		}, {
+			"category_id": "1312",
+			"category_name": "My Fairy Pony",
+			"category_thumbnail": "1312.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Bloomy",
+				"anime_step": 11
+			}, {
+				"anime_id": "2",
+				"anime_name": "Diaspra",
+				"anime_step": 15
+			}, {
+				"anime_id": "3",
+				"anime_name": "Flora",
+				"anime_step": 13
+			}, {
+				"anime_id": "4",
+				"anime_name": "Icey",
+				"anime_step": 11
+			}, {
+				"anime_id": "5",
+				"anime_name": "Layly",
+				"anime_step": 12
+			}, {
+				"anime_id": "6",
+				"anime_name": "Muse",
+				"anime_step": 13
+			}, {
+				"anime_id": "7",
+				"anime_name": "Roksy",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Seline",
+				"anime_step": 12
+			}, {
+				"anime_id": "9",
+				"anime_name": "Stelly",
+				"anime_step": 12
+			}, {
+				"anime_id": "10",
+				"anime_name": "Tekky",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1313",
+			"category_name": "Nail Art",
+			"category_thumbnail": "1313.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Clouds",
+				"anime_step": 4
+			}, {
+				"anime_id": "2",
+				"anime_name": "Rhombus",
+				"anime_step": 6
+			}, {
+				"anime_id": "3",
+				"anime_name": "Butterfly",
+				"anime_step": 5
+			}, {
+				"anime_id": "4",
+				"anime_name": "Floral",
+				"anime_step": 9
+			}, {
+				"anime_id": "5",
+				"anime_name": "Geometric",
+				"anime_step": 4
+			}, {
+				"anime_id": "6",
+				"anime_name": "Black and White",
+				"anime_step": 6
+			}, {
+				"anime_id": "7",
+				"anime_name": "Simple Design",
+				"anime_step": 4
+			}, {
+				"anime_id": "8",
+				"anime_name": "Great Britain",
+				"anime_step": 8
+			}, {
+				"anime_id": "9",
+				"anime_name": "Snowflake",
+				"anime_step": 7
+			}, {
+				"anime_id": "10",
+				"anime_name": "Puzzle",
+				"anime_step": 6
+			}, {
+				"anime_id": "11",
+				"anime_name": "Nautical Design",
+				"anime_step": 7
+			}, {
+				"anime_id": "12",
+				"anime_name": "New Year",
+				"anime_step": 8
+			}, {
+				"anime_id": "13",
+				"anime_name": "Hello Kitty",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Bow",
+				"anime_step": 5
+			}, {
+				"anime_id": "15",
+				"anime_name": "Striped Nails",
+				"anime_step": 7
+			}]
+		}, {
+			"category_id": "1316",
+			"category_name": "Superhero Women",
+			"category_thumbnail": "1316.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Spider Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "2",
+				"anime_name": "Bat Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "3",
+				"anime_name": "Mint Princess",
+				"anime_step": 10
+			}, {
+				"anime_id": "4",
+				"anime_name": "Super Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "5",
+				"anime_name": "Green Lamp Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "6",
+				"anime_name": "Steel Claw Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "7",
+				"anime_name": "Iron Lady",
+				"anime_step": 10
+			}, {
+				"anime_id": "8",
+				"anime_name": "Hell Girl",
+				"anime_step": 10
+			}, {
+				"anime_id": "9",
+				"anime_name": "Hammer Queen",
+				"anime_step": 11
+			}, {
+				"anime_id": "10",
+				"anime_name": "Silver Lady",
+				"anime_step": 9
+			}]
+		}, {
+			"category_id": "1318",
+			"category_name": "Mermaids",
+			"category_thumbnail": "1318.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Ariel",
+				"anime_step": 14
+			}, {
+				"anime_id": "2",
+				"anime_name": "Chibi Ariel",
+				"anime_step": 10
+			}, {
+				"anime_id": "3",
+				"anime_name": "Anime Mermaid",
+				"anime_step": 10
+			}, {
+				"anime_id": "4",
+				"anime_name": "Beautiful Mermaid",
+				"anime_step": 10
+			}, {
+				"anime_id": "5",
+				"anime_name": "Blue Haired Mermaid",
+				"anime_step": 10
+			}, {
+				"anime_id": "6",
+				"anime_name": "Cartoon Mermaid",
+				"anime_step": 10
+			}, {
+				"anime_id": "7",
+				"anime_name": "Chibi Mermaid",
+				"anime_step": 10
+			}, {
+				"anime_id": "8",
+				"anime_name": "Cute Mermaid",
+				"anime_step": 11
+			}, {
+				"anime_id": "9",
+				"anime_name": "Devil Mermaid",
+				"anime_step": 11
+			}, {
+				"anime_id": "10",
+				"anime_name": "Flounder",
+				"anime_step": 8
+			}, {
+				"anime_id": "11",
+				"anime_name": "King Triton",
+				"anime_step": 12
+			}, {
+				"anime_id": "12",
+				"anime_name": "Little Mermaid",
+				"anime_step": 11
+			}, {
+				"anime_id": "13",
+				"anime_name": "Red Haired Mermaid",
+				"anime_step": 14
+			}, {
+				"anime_id": "14",
+				"anime_name": "Sebastian",
+				"anime_step": 11
+			}, {
+				"anime_id": "15",
+				"anime_name": "Ursula",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1321",
+			"category_name": "Fairies and Pixies",
+			"category_thumbnail": "1321.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Barbie",
+				"anime_step": 11
+			}, {
+				"anime_id": "2",
+				"anime_name": "Carrie",
+				"anime_step": 11
+			}, {
+				"anime_id": "3",
+				"anime_name": "Taylor",
+				"anime_step": 11
+			}, {
+				"anime_id": "4",
+				"anime_name": "Raquelle",
+				"anime_step": 11
+			}, {
+				"anime_id": "5",
+				"anime_name": "Anime Fairie 1",
+				"anime_step": 10
+			}, {
+				"anime_id": "6",
+				"anime_name": "Anime Fairie 2",
+				"anime_step": 11
+			}, {
+				"anime_id": "7",
+				"anime_name": "Anime Fairie 3",
+				"anime_step": 12
+			}, {
+				"anime_id": "8",
+				"anime_name": "Chibi Fairy",
+				"anime_step": 11
+			}, {
+				"anime_id": "9",
+				"anime_name": "Chibi TinkerBell",
+				"anime_step": 10
+			}, {
+				"anime_id": "10",
+				"anime_name": "Silvermist",
+				"anime_step": 10
+			}, {
+				"anime_id": "11",
+				"anime_name": "Vidia",
+				"anime_step": 10
+			}, {
+				"anime_id": "12",
+				"anime_name": "Iridessa",
+				"anime_step": 10
+			}, {
+				"anime_id": "13",
+				"anime_name": "Ariel Sea Fairy",
+				"anime_step": 12
+			}, {
+				"anime_id": "14",
+				"anime_name": "Cartoon Fairy",
+				"anime_step": 11
+			}, {
+				"anime_id": "15",
+				"anime_name": "Tooth Fairy",
+				"anime_step": 11
+			}, {
+				"anime_id": "16",
+				"anime_name": "Beautiful Fairy",
+				"anime_step": 9
+			}, {
+				"anime_id": "17",
+				"anime_name": "Sweet Fairy",
+				"anime_step": 10
+			}, {
+				"anime_id": "18",
+				"anime_name": "Bloom",
+				"anime_step": 22
+			}, {
+				"anime_id": "19",
+				"anime_name": "Flora",
+				"anime_step": 20
+			}, {
+				"anime_id": "20",
+				"anime_name": "Stella",
+				"anime_step": 17
+			}, {
+				"anime_id": "21",
+				"anime_name": "Musa",
+				"anime_step": 15
+			}]
+		}, {
+			"category_id": "1322",
+			"category_name": "Tinker Bell",
+			"category_thumbnail": "1322.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Silvermist",
+				"anime_step": 10
+			}, {
+				"anime_id": "2",
+				"anime_name": "Vidia",
+				"anime_step": 10
+			}, {
+				"anime_id": "3",
+				"anime_name": "Iridessa",
+				"anime_step": 10
+			}, {
+				"anime_id": "4",
+				"anime_name": "Zarina",
+				"anime_step": 18
+			}, {
+				"anime_id": "5",
+				"anime_name": "Tinkerbell",
+				"anime_step": 13
+			}, {
+				"anime_id": "6",
+				"anime_name": "Fairy Mary",
+				"anime_step": 11
+			}, {
+				"anime_id": "7",
+				"anime_name": "Fawn",
+				"anime_step": 13
+			}, {
+				"anime_id": "8",
+				"anime_name": "Neverbeast",
+				"anime_step": 10
+			}, {
+				"anime_id": "9",
+				"anime_name": "Periwinkle",
+				"anime_step": 13
+			}, {
+				"anime_id": "10",
+				"anime_name": "Rosetta",
+				"anime_step": 12
+			}, {
+				"anime_id": "11",
+				"anime_name": "Animal Fairy",
+				"anime_step": 15
+			}, {
+				"anime_id": "12",
+				"anime_name": "Fast Flying Fairy",
+				"anime_step": 13
+			}, {
+				"anime_id": "13",
+				"anime_name": "Water Fairy",
+				"anime_step": 12
+			}, {
+				"anime_id": "14",
+				"anime_name": "Light Fairy",
+				"anime_step": 14
+			}, {
+				"anime_id": "15",
+				"anime_name": "Garden Fairy",
+				"anime_step": 12
+			}, {
+				"anime_id": "16",
+				"anime_name": "Tinker Fairy",
+				"anime_step": 13
+			}, {
+				"anime_id": "17",
+				"anime_name": "Chibi Tinkerbell",
+				"anime_step": 10
+			}, {
+				"anime_id": "18",
+				"anime_name": "Nyx",
+				"anime_step": 12
+			}]
+		}, {
+			"category_id": "1317",
+			"category_name": "Furry",
+			"category_thumbnail": "1317.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Bunny",
+				"anime_step": 15
+			}, {
+				"anime_id": "2",
+				"anime_name": "Mr. Doberman",
+				"anime_step": 13
+			}, {
+				"anime_id": "3",
+				"anime_name": "Wild Cat",
+				"anime_step": 17
+			}, {
+				"anime_id": "4",
+				"anime_name": "Deer",
+				"anime_step": 19
+			}, {
+				"anime_id": "5",
+				"anime_name": "Mrs. Doberman",
+				"anime_step": 17
+			}, {
+				"anime_id": "6",
+				"anime_name": "Red Fox",
+				"anime_step": 17
+			}, {
+				"anime_id": "7",
+				"anime_name": "Gray Fox",
+				"anime_step": 15
+			}, {
+				"anime_id": "8",
+				"anime_name": "Mr. Lion",
+				"anime_step": 17
+			}, {
+				"anime_id": "9",
+				"anime_name": "Mrs. Lion",
+				"anime_step": 15
+			}, {
+				"anime_id": "10",
+				"anime_name": "Wolf",
+				"anime_step": 15
+			}]
+		}, {
+			"category_id": "1302",
+			"category_name": "Monster High",
+			"category_thumbnail": "1302.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Symbol",
+				"anime_step": 15
+			}, {
+				"anime_id": "2",
+				"anime_name": "Logo",
+				"anime_step": 8
+			}, {
+				"anime_id": "3",
+				"anime_name": "Frankie Stein",
+				"anime_step": 22
+			}, {
+				"anime_id": "4",
+				"anime_name": "Draculaura",
+				"anime_step": 24
+			}, {
+				"anime_id": "5",
+				"anime_name": "Kleidung",
+				"anime_step": 19
+			}, {
+				"anime_id": "6",
+				"anime_name": "Lagoona Blue",
+				"anime_step": 22
+			}, {
+				"anime_id": "7",
+				"anime_name": "Cleo de Nile",
+				"anime_step": 21
+			}, {
+				"anime_id": "8",
+				"anime_name": "Ghoulia Yelps",
+				"anime_step": 17
+			}, {
+				"anime_id": "9",
+				"anime_name": "Abbey Bominable",
+				"anime_step": 17
+			}, {
+				"anime_id": "10",
+				"anime_name": "Spectra Vondergeist",
+				"anime_step": 19
+			}, {
+				"anime_id": "11",
+				"anime_name": "Operetta",
+				"anime_step": 22
+			}, {
+				"anime_id": "12",
+				"anime_name": "Deuce Gorgon",
+				"anime_step": 22
+			}, {
+				"anime_id": "13",
+				"anime_name": "Holt Hyde",
+				"anime_step": 21
+			}, {
+				"anime_id": "14",
+				"anime_name": "Jackson Jekyll",
+				"anime_step": 17
+			}, {
+				"anime_id": "15",
+				"anime_name": "David Flames",
+				"anime_step": 15
+			}, {
+				"anime_id": "16",
+				"anime_name": "Clawdeen Logo",
+				"anime_step": 13
+			}, {
+				"anime_id": "17",
+				"anime_name": "Cleo Logo",
+				"anime_step": 13
+			}, {
+				"anime_id": "18",
+				"anime_name": "Deuce Logo",
+				"anime_step": 14
+			}, {
+				"anime_id": "19",
+				"anime_name": "Draculaura Logo",
+				"anime_step": 10
+			}, {
+				"anime_id": "20",
+				"anime_name": "Frankie Stein Logo",
+				"anime_step": 9
+			}, {
+				"anime_id": "21",
+				"anime_name": "Ghoulia Logo",
+				"anime_step": 11
+			}, {
+				"anime_id": "22",
+				"anime_name": "Lagoona Logo",
+				"anime_step": 9
+			}]
+		}, {
+			"category_id": "1301",
+			"category_name": "My Little Pony",
+			"category_thumbnail": "1301.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Rarity",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Pinkie Pie",
+				"anime_step": 7
+			}, {
+				"anime_id": "3",
+				"anime_name": "Twilight Sparkle Face",
+				"anime_step": 7
+			}, {
+				"anime_id": "4",
+				"anime_name": "Fluttershy",
+				"anime_step": 8
+			}, {
+				"anime_id": "5",
+				"anime_name": "Celestia",
+				"anime_step": 9
+			}, {
+				"anime_id": "6",
+				"anime_name": "Rainbow Dash #2",
+				"anime_step": 9
+			}, {
+				"anime_id": "7",
+				"anime_name": "Spike",
+				"anime_step": 9
+			}, {
+				"anime_id": "8",
+				"anime_name": "Scootaloo",
+				"anime_step": 8
+			}, {
+				"anime_id": "9",
+				"anime_name": "Applejack",
+				"anime_step": 8
+			}, {
+				"anime_id": "10",
+				"anime_name": "Chibi Luna",
+				"anime_step": 8
+			}, {
+				"anime_id": "11",
+				"anime_name": "Sweetie Belle",
+				"anime_step": 7
+			}, {
+				"anime_id": "12",
+				"anime_name": "Apple Bloom",
+				"anime_step": 7
+			}, {
+				"anime_id": "13",
+				"anime_name": "Big Macintosh",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Derpy Hooves",
+				"anime_step": 8
+			}, {
+				"anime_id": "15",
+				"anime_name": "Chibi Pinkie Pie",
+				"anime_step": 8
+			}, {
+				"anime_id": "16",
+				"anime_name": "Rainbow Dash",
+				"anime_step": 9
+			}, {
+				"anime_id": "17",
+				"anime_name": "Pipsqueak",
+				"anime_step": 8
+			}, {
+				"anime_id": "18",
+				"anime_name": "Tank the Tortoise",
+				"anime_step": 9
+			}, {
+				"anime_id": "19",
+				"anime_name": "Carrot Top",
+				"anime_step": 7
+			}, {
+				"anime_id": "20",
+				"anime_name": "Cheerilee",
+				"anime_step": 7
+			}, {
+				"anime_id": "21",
+				"anime_name": "Cloudchaser",
+				"anime_step": 8
+			}, {
+				"anime_id": "22",
+				"anime_name": "Lightning Dust",
+				"anime_step": 7
+			}, {
+				"anime_id": "23",
+				"anime_name": "Prince Blueblood",
+				"anime_step": 8
+			}, {
+				"anime_id": "24",
+				"anime_name": "Princess Luna",
+				"anime_step": 8
+			}, {
+				"anime_id": "25",
+				"anime_name": "Rose",
+				"anime_step": 8
+			}, {
+				"anime_id": "26",
+				"anime_name": "Princess Cadance",
+				"anime_step": 9
+			}, {
+				"anime_id": "27",
+				"anime_name": "Twilight Sparkle",
+				"anime_step": 7
+			}, {
+				"anime_id": "28",
+				"anime_name": "Angel Bunny",
+				"anime_step": 10
+			}, {
+				"anime_id": "29",
+				"anime_name": "Milky Way",
+				"anime_step": 9
+			}, {
+				"anime_id": "30",
+				"anime_name": "Gilda",
+				"anime_step": 10
+			}, {
+				"anime_id": "31",
+				"anime_name": "Nightmare Ranity",
+				"anime_step": 11
+			}, {
+				"anime_id": "32",
+				"anime_name": "Flim Flam Brothers",
+				"anime_step": 11
+			}, {
+				"anime_id": "33",
+				"anime_name": "Mane Iac",
+				"anime_step": 13
+			}, {
+				"anime_id": "34",
+				"anime_name": "Nightmare Moon",
+				"anime_step": 11
+			}, {
+				"anime_id": "35",
+				"anime_name": "Shadowbolt",
+				"anime_step": 12
+			}, {
+				"anime_id": "36",
+				"anime_name": "Silver Shill",
+				"anime_step": 11
+			}]
+		}
+	]
 }
