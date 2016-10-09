@@ -1,114 +1,407 @@
 {
-	"categories":[
-                  {
-                    "category_id":"5210",
-                    "category_name":"Dolls Dress Up",
-                    "category_thumbnail":"5210.png",
-                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
-                    "file_extension": "png",
-                    "is_video":"false",
-                    "animes":[
-                              {
-                                "anime_id":"7",
-                                "anime_name":"Amazing Dress",
-                                "anime_step":13
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Anime Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Anna Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Applejack Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"4",
-                              "anime_name":"Barbi Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Belle Dress",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"1",
-                              "anime_name":"Briar Beauty Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"Cinderella Dress",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"20",
-                              "anime_name":"Cute Dress",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"2",
-                              "anime_name":"Draculaura Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"18",
-                              "anime_name":"Elsa Dress",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"16",
-                              "anime_name":"Evening Dress",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"3",
-                              "anime_name":"Frankie Stein Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"17",
-                              "anime_name":"Kira Vellar Dress",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"19",
-                              "anime_name":"Little Dress",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Madeline Hatter Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Pinkie Pie Dress",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Rainbow Dash Dress",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Short Dress",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Wedding Dress",
-                              "anime_step":10
-                              }
-                        ]
-                    }
-                  ]
+	"categories": [{
+		"category_id": "5210",
+		"category_name": "Dolls Dress Up",
+		"category_thumbnail": "5210.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+		"file_extension": "png",
+		"is_video": "false",
+		"animes": [{
+			"anime_id": "7",
+			"anime_name": "Amazing Dress",
+			"anime_step": 13
+		}, {
+			"anime_id": "5",
+			"anime_name": "Anime Dress",
+			"anime_step": 11
+		}, {
+			"anime_id": "11",
+			"anime_name": "Anna Dress",
+			"anime_step": 10
+		}, {
+			"anime_id": "9",
+			"anime_name": "Applejack Dress",
+			"anime_step": 10
+		}, {
+			"anime_id": "4",
+			"anime_name": "Barbi Dress",
+			"anime_step": 9
+		}, {
+			"anime_id": "13",
+			"anime_name": "Belle Dress",
+			"anime_step": 12
+		}, {
+			"anime_id": "1",
+			"anime_name": "Briar Beauty Dress",
+			"anime_step": 11
+		}, {
+			"anime_id": "12",
+			"anime_name": "Cinderella Dress",
+			"anime_step": 12
+		}, {
+			"anime_id": "20",
+			"anime_name": "Cute Dress",
+			"anime_step": 7
+		}, {
+			"category_id": "5211",
+			"category_name": "Clothes",
+			"category_thumbnail": "5211.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Raglan",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Blouse",
+				"anime_step": 9
+			}, {
+				"anime_id": "3",
+				"anime_name": "Breeches",
+				"anime_step": 7
+			}, {
+				"anime_id": "4",
+				"anime_name": "T-shirt",
+				"anime_step": 6
+			}, {
+				"anime_id": "5",
+				"anime_name": "Parka",
+				"anime_step": 7
+			}, {
+				"anime_id": "6",
+				"anime_name": "Jeans",
+				"anime_step": 8
+			}, {
+				"anime_id": "7",
+				"anime_name": "Coat",
+				"anime_step": 8
+			}, {
+				"anime_id": "8",
+				"anime_name": "Sarafan",
+				"anime_step": 7
+			}, {
+				"anime_id": "9",
+				"anime_name": "Waistcoat",
+				"anime_step": 9
+			}, {
+				"anime_id": "10",
+				"anime_name": "Swimsuit",
+				"anime_step": 7
+			}, {
+				"anime_id": "11",
+				"anime_name": "Sheepskin Coat",
+				"anime_step": 7
+			}, {
+				"anime_id": "12",
+				"anime_name": "Shorts",
+				"anime_step": 7
+			}, {
+				"anime_id": "13",
+				"anime_name": "Jacket",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Pants",
+				"anime_step": 7
+			}, {
+				"anime_id": "15",
+				"anime_name": "Skirt",
+				"anime_step": 6
+			}, {
+				"anime_id": "16",
+				"anime_name": "Leather Jacket",
+				"anime_step": 7
+			}, {
+				"anime_id": "17",
+				"anime_name": "Shirt",
+				"anime_step": 7
+			}, {
+				"anime_id": "18",
+				"anime_name": "Overalls",
+				"anime_step": 8
+			}, {
+				"anime_id": "19",
+				"anime_name": "Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "20",
+				"anime_name": "Ladies Jacket",
+				"anime_step": 7
+			}]
+		}, {
+			"category_id": "5212",
+			"category_name": "Hats",
+			"category_thumbnail": "5212.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Funny Hat",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Sports Cap",
+				"anime_step": 6
+			}, {
+				"anime_id": "3",
+				"anime_name": "Jockey Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "4",
+				"anime_name": "Santa Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "5",
+				"anime_name": "Gentleman Hat",
+				"anime_step": 5
+			}, {
+				"anime_id": "6",
+				"anime_name": "Blue Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "7",
+				"anime_name": "Sombrero",
+				"anime_step": 6
+			}, {
+				"anime_id": "8",
+				"anime_name": "Pirate Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "9",
+				"anime_name": "Viking Helmet",
+				"anime_step": 7
+			}, {
+				"anime_id": "10",
+				"anime_name": "Hat with Feather",
+				"anime_step": 5
+			}, {
+				"anime_id": "11",
+				"anime_name": "Wizard Hat",
+				"anime_step": 5
+			}, {
+				"anime_id": "12",
+				"anime_name": "Lady Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "13",
+				"anime_name": "Joker Hat",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Graduate Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "15",
+				"anime_name": "Party Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "16",
+				"anime_name": "Cute Beret",
+				"anime_step": 5
+			}, {
+				"anime_id": "17",
+				"anime_name": "Hat with Bow",
+				"anime_step": 5
+			}, {
+				"anime_id": "18",
+				"anime_name": "Cook Cap",
+				"anime_step": 6
+			}, {
+				"anime_id": "19",
+				"anime_name": "Panama Hat",
+				"anime_step": 6
+			}, {
+				"anime_id": "20",
+				"anime_name": "Builder Helmet",
+				"anime_step": 5
+			}]
+		}, {
+			"category_id": "5213",
+			"category_name": "Shirt/T-Shirt/Jacket",
+			"category_thumbnail": "5213.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Raglan",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Blouse",
+				"anime_step": 9
+			}, {
+				"anime_id": "3",
+				"anime_name": "T-shirt",
+				"anime_step": 6
+			}, {
+				"anime_id": "4",
+				"anime_name": "Parka",
+				"anime_step": 7
+			}, {
+				"anime_id": "5",
+				"anime_name": "Coat",
+				"anime_step": 8
+			}, {
+				"anime_id": "6",
+				"anime_name": "Sarafan",
+				"anime_step": 7
+			}, {
+				"anime_id": "7",
+				"anime_name": "Waistcoat",
+				"anime_step": 9
+			}, {
+				"anime_id": "8",
+				"anime_name": "Sheepskin Coat",
+				"anime_step": 7
+			}, {
+				"anime_id": "9",
+				"anime_name": "Jacket",
+				"anime_step": 7
+			}, {
+				"anime_id": "10",
+				"anime_name": "Pants",
+				"anime_step": 7
+			}, {
+				"anime_id": "11",
+				"anime_name": "Leather Jacket",
+				"anime_step": 7
+			}, {
+				"anime_id": "12",
+				"anime_name": "Shirt",
+				"anime_step": 7
+			}, {
+				"anime_id": "13",
+				"anime_name": "Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "14",
+				"anime_name": "Ladies Jacket",
+				"anime_step": 7
+			}]
+		}, {
+			"category_id": "5214",
+			"category_name": "Jeans/Shorts",
+			"category_thumbnail": "5214.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "1",
+				"anime_name": "Breeches",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Jeans",
+				"anime_step": 8
+			}, {
+				"anime_id": "3",
+				"anime_name": "Swimsuit",
+				"anime_step": 7
+			}, {
+				"anime_id": "4",
+				"anime_name": "Shorts",
+				"anime_step": 7
+			}, {
+				"anime_id": "5",
+				"anime_name": "Skirt",
+				"anime_step": 6
+			}, {
+				"anime_id": "6",
+				"anime_name": "Overalls",
+				"anime_step": 8
+			}]
+		}, {
+			"category_id": "5210",
+			"category_name": "Dolls Dress Up",
+			"category_thumbnail": "5210.png",
+			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
+			"file_extension": "png",
+			"is_video": "false",
+			"animes": [{
+				"anime_id": "7",
+				"anime_name": "Amazing Dress",
+				"anime_step": 13
+			}, {
+				"anime_id": "5",
+				"anime_name": "Anime Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "11",
+				"anime_name": "Anna Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "9",
+				"anime_name": "Applejack Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "4",
+				"anime_name": "Barbi Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "13",
+				"anime_name": "Belle Dress",
+				"anime_step": 12
+			}, {
+				"anime_id": "1",
+				"anime_name": "Briar Beauty Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "12",
+				"anime_name": "Cinderella Dress",
+				"anime_step": 12
+			}, {
+				"anime_id": "20",
+				"anime_name": "Cute Dress",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Draculaura Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "18",
+				"anime_name": "Elsa Dress",
+				"anime_step": 6
+			}, {
+				"anime_id": "16",
+				"anime_name": "Evening Dress",
+				"anime_step": 8
+			}, {
+				"anime_id": "3",
+				"anime_name": "Frankie Stein Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "17",
+				"anime_name": "Kira Vellar Dress",
+				"anime_step": 10
+			}, {
+				"anime_id": "19",
+				"anime_name": "Little Dress",
+				"anime_step": 11
+			}, {
+				"anime_id": "10",
+				"anime_name": "Madeline Hatter Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "8",
+				"anime_name": "Pinkie Pie Dress",
+				"anime_step": 9
+			}, {
+				"anime_id": "6",
+				"anime_name": "Rainbow Dash Dress",
+				"anime_step": 8
+			}, {
+				"anime_id": "15",
+				"anime_name": "Short Dress",
+				"anime_step": 7
+			}, {
+				"anime_id": "14",
+				"anime_name": "Wedding Dress",
+				"anime_step": 10
+			}]
+		}]
+	}]
 }
