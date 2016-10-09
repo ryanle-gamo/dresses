@@ -1,8 +1,8 @@
 {
     "latest_version":"0.0.9",
-    "home_ads_enable":true,
-    "grid_ads_enable":true,
-    "details_ads_animation_enable":true,
+    "home_ads_enable":false,
+    "grid_ads_enable":false,
+    "details_ads_animation_enable":false,
     "home_ads_admob":true,
     "grid_ads_admob":true,
     "details_ads_admob":true,
