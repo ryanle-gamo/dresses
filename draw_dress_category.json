@@ -6,39 +6,7 @@
 			"file_url": "https://raw.githubusercontent.com/ryanle-gamo/dresses/master/",
 			"file_extension": "png",
 			"is_video": "false",
-			"animes": [{
-				"anime_id": "1",
-				"anime_name": "Raglan",
-				"anime_step": 7
-			}, {
-				"anime_id": "2",
-				"anime_name": "Blouse",
-				"anime_step": 9
-			}, {
-				"anime_id": "3",
-				"anime_name": "Breeches",
-				"anime_step": 7
-			}, {
-				"anime_id": "4",
-				"anime_name": "T-shirt",
-				"anime_step": 6
-			}, {
-				"anime_id": "5",
-				"anime_name": "Parka",
-				"anime_step": 7
-			}, {
-				"anime_id": "6",
-				"anime_name": "Jeans",
-				"anime_step": 8
-			}, {
-				"anime_id": "7",
-				"anime_name": "Coat",
-				"anime_step": 8
-			}, {
-				"anime_id": "8",
-				"anime_name": "Sarafan",
-				"anime_step": 7
-			}, {
+			"animes": [ {
 				"anime_id": "9",
 				"anime_name": "Waistcoat",
 				"anime_step": 9
@@ -69,6 +37,38 @@
 			}, {
 				"anime_id": "16",
 				"anime_name": "Leather Jacket",
+				"anime_step": 7
+			}, {
+				"anime_id": "1",
+				"anime_name": "Raglan",
+				"anime_step": 7
+			}, {
+				"anime_id": "2",
+				"anime_name": "Blouse",
+				"anime_step": 9
+			}, {
+				"anime_id": "3",
+				"anime_name": "Breeches",
+				"anime_step": 7
+			}, {
+				"anime_id": "4",
+				"anime_name": "T-shirt",
+				"anime_step": 6
+			}, {
+				"anime_id": "5",
+				"anime_name": "Parka",
+				"anime_step": 7
+			}, {
+				"anime_id": "6",
+				"anime_name": "Jeans",
+				"anime_step": 8
+			}, {
+				"anime_id": "7",
+				"anime_name": "Coat",
+				"anime_step": 8
+			}, {
+				"anime_id": "8",
+				"anime_name": "Sarafan",
 				"anime_step": 7
 			}, {
 				"anime_id": "17",
